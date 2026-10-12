@@ -1,0 +1,11 @@
+[33mcommit b01e3bc5556e766ec6da3ab4dead1c598b9749ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: erfasa <tiakovernar@gmail.com>
+Date:   Mon Oct 12 21:27:13 2026 +0500
+
+    Add basic styles for the project
+
+[33mcommit 0776e92e1785083b5603a7044118126aa0db23a2[m
+Author: erfasa <tiakovernar@gmail.com>
+Date:   Mon Oct 12 21:24:23 2026 +0500
+
+    Add basic index.html file
